@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsibility", "Sin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{28CB7D69-A30A-47F8-82D8-519B561FB4DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityAnotherExample", "SingleResponsibilityAnotherExample\SingleResponsibilityAnotherExample.csproj", "{FF487EC9-AD9A-4E93-9E14-359C6C213758}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{28CB7D69-A30A-47F8-82D8-519B561FB4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28CB7D69-A30A-47F8-82D8-519B561FB4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28CB7D69-A30A-47F8-82D8-519B561FB4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{28CB7D69-A30A-47F8-82D8-519B561FB4DC} = {C9265991-2D64-40FD-B4F3-26F4A08ACCD8}
+		{FF487EC9-AD9A-4E93-9E14-359C6C213758} = {C9265991-2D64-40FD-B4F3-26F4A08ACCD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A302575-23BA-4FB9-8B9E-8FDB70F22603}
