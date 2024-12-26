@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsibility", "SingleResponsibility", "{C9265991-2D64-40FD-B4F3-26F4A08ACCD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{28CB7D69-A30A-47F8-82D8-519B561FB4DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{28CB7D69-A30A-47F8-82D8-519B561FB4DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityAnotherExample", "SingleResponsibilityAnotherExample\SingleResponsibilityAnotherExample.csproj", "{FF487EC9-AD9A-4E93-9E14-359C6C213758}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityAnotherExample", "SingleResponsibilityAnotherExample\SingleResponsibilityAnotherExample.csproj", "{FF487EC9-AD9A-4E93-9E14-359C6C213758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "OpenClosed\OpenClosed.csproj", "{EBCF023E-65AE-4DF2-A882-655252FFE0AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF487EC9-AD9A-4E93-9E14-359C6C213758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCF023E-65AE-4DF2-A882-655252FFE0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCF023E-65AE-4DF2-A882-655252FFE0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCF023E-65AE-4DF2-A882-655252FFE0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCF023E-65AE-4DF2-A882-655252FFE0AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
